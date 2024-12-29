@@ -1,0 +1,14 @@
+
+
+ #nav{
+    display:flex;
+    gap:20px;
+    justify-content:space-evenly;
+    align-items:center;
+    padding:20px;
+    background-color:bisque;
+ }
+ a{
+    text-decoration:none;
+
+ }
